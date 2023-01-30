@@ -5,3 +5,10 @@ function setup() {
 function draw() {
   background("red");
 }
+
+function RigoFunction(){
+  console.log("RigoMadeThisFunction")
+  console.log("also do thil")
+}
+
+
